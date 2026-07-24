@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on evercolin</title>
+		<link>http://localhost:1313/tags/blog/</link>
+		<description>Recent content in Blog on evercolin</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Jul 2026 22:09:06 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>First Post</title>
+				<link>http://localhost:1313/posts/first-post/</link>
+				<pubDate>Thu, 23 Jul 2026 22:09:06 -0400</pubDate>
+				<guid>http://localhost:1313/posts/first-post/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hi friend(s). If youre reading this, you found my website and this is its first post! Congratulations. I have had many, many iterations of a personal website of mine (and this is likely the first youve ever seen) BUT I believe this one should stick.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;h2 id=&#34;what-to-expect&#34;&gt;&#xA;  What to expect&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Here you will find my haiku poetry, daily komorebi photography, and blog posts about general musings and thoughts. There will be some haibun, and prose as well but I dont want to promise too much yet. I find my main problems with websites is biting off so much more than I can chew. So for now: haiku / komorebi / blog.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

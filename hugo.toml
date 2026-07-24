@@ -1,0 +1,4 @@
+baseURL = 'https://evercolin.com/'
+locale = 'en-us'
+title = 'evercolin'
+theme = 'shibui'
