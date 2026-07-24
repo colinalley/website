@@ -2,3 +2,7 @@ baseURL = 'https://evercolin.com/'
 locale = 'en-us'
 title = 'evercolin'
 theme = 'shibui'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
