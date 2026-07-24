@@ -17,6 +17,6 @@ Here you will find my haiku poetry, daily komorebi photography, and blog posts a
 
 I am no longer an active part of social media. I have no active profiles on facebook, instagram, or reddit, etc. Anything with a feed, mainly, I tend to stay away from. Its just too addicting and disruptive, and my brain has a hard time resisting its pull. 
 
-You will find links to my letterboxd and goodreads here. I mention it because It is technically social media. I just cannot bring myself to manually track every piece of media I consume. Too much work. 
+You will find links to my letterboxd and goodreads here. I mention it because It is technically social media. I just cannot bring myself to manually track every piece of media I consume. Too much work. If you want to keep up with all that I will have those links readily available at the top of the page. 
 
-I hope you find the things here bring you some sort of peace, or maybe a quiet moment. 
+I hope the things you find here bring you some sort of peace, or maybe a quiet moment. 
