@@ -17,7 +17,7 @@ Hi friend(s). If youre reading this, you found my website! I have had many, many
 
 Here you will find my haiku poetry, komorebi photography,and blog posts about general musings, thoughts, and experiences. Ill define komorebi below, incase youre wondering what that is. This can be about zen practice, games, or tech I enjoy. There will be some haibun, and prose as well but I dont want to promise too much yet. I find my main problems with websites is biting off so much more than I can chew. So for now: haiku / komorebi / blog. 
 
-Komorebi is a "Japanese word that means sunlight filtering through the leaves of trees, capturing the beauty of dappled light and the feelings it evokes." I have mostly decided on this form of photography because of the film Perfect Days.
+Komorebi is a Japanese word that means sunlight filtering through the leaves of trees, capturing the beauty of dappled light and the feelings it evokes. I have mostly decided on this form of photography because of the film Perfect Days.
 
 ## Why
 
