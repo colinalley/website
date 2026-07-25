@@ -5,20 +5,17 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-07-25T10:23:33-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/haiku/</loc>
+    <lastmod>2026-07-25T10:23:33-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-07-25T10:23:33-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/secretion/</loc>
     <lastmod>2026-07-25T10:23:33-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2026-07-23T22:09:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2026-07-23T22:09:06-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-23T22:09:06-04:00</lastmod>
+    <lastmod>2026-07-25T10:23:33-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
