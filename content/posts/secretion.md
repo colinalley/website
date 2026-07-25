@@ -2,6 +2,7 @@
 date = '2026-07-25T10:23:33-04:00'
 draft = false
 title = 'Secretion'
+tags = 'haiku'
 +++
 
 I begin by sitting on the porch, cross legged. I place my hands together, but I cant find my heart. Rain clouds the natural sounds of the night and I am floudering.
