@@ -3,19 +3,24 @@ locale = 'en-us'
 title = 'evercolin'
 theme = 'shibui'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[params]
-  author = "evercolin"
-
 [menu]
   [[menu.main]]
-    name = "Posts"
+    name = "posts"
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "tags"
+    url = "/tags/"
     weight = 2
+  [[menu.main]]
+    name = "books"
+    url = "https://www.goodreads.com/colinalley"
+    weight = 3
+  [[menu.main]]
+    name = "movies"
+    url = "https://boxd.it/lpKFp"
+    weight = 4
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
