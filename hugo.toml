@@ -1,6 +1,6 @@
-baseURL = 'https://evercolin.com/'
+baseURL = 'https://colinalley.com/'
 locale = 'en-us'
-title = 'evercolin'
+title = 'colin_alley'
 theme = 'shibui'
 
 [menu]
