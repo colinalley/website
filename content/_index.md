@@ -3,9 +3,8 @@
 ```
 > haiku poet
 > computer repair tech
-> casual photographer
-> student of zen
-> gamer at heart
+> casual photgrapher
+> aging gamer
 
 ```
 
