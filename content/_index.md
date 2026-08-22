@@ -3,7 +3,7 @@
 ```
 > haiku poet
 > computer repair tech
-> casual photgrapher
+> casual photographer
 > aging gamer
 
 ```
