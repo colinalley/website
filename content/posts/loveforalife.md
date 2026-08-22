@@ -4,7 +4,6 @@ draft = false
 title = 'Love for a life'
 tags = 'essay'
 +++
-# Love for a life
 
 Before you dive in, I have a quick note. This piece really challenged me. I have played video games all of my life, but when it comes to writing about them I find myself having difficulty describing the specific effects they have on me. This is probably because whatever thoughts I have while I play a game, I simply have, and don’t write them down. Free to fade into the ether, converted into glucose for my hands to keep a firm grip on the controller.
 
