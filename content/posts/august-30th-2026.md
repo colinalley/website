@@ -11,4 +11,4 @@ new rays
 
 ---
 
-I may add in a haibun to this after I post it, but for now want it to stand on its own. 
+I may add some prose to this after I post it, as I was writing about this moment in my journal for some time after I experienced it. But for now want it to stand on its own. 
